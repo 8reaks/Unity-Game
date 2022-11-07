@@ -1,3 +1,2 @@
-# Unity-Game-Fairy-in-Mind
-It's a rougelike running game.
+# Unity-Game
 Click .exe to play it.
