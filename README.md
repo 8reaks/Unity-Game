@@ -1,6 +1,6 @@
 # Unity-Game
-Click .exe to play it.
-Or 
+Click .exe to play it.  
+Or  
 [Online Play 1](https://8reaks.github.io/UnityGame_Space3040/)  
 [Online Play 2](https://8reaks.github.io/UnityGame_Space3040/)  
 
